@@ -1,1 +1,2 @@
-# Simple < Hello World > Java file and a couple git commands
+# LAB01
+Simple *Hello World* Java file and git commands
